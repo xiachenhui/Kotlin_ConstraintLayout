@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+    <string name="user_name">用户名</string>
+    <string name="user_password">密码</string>
+    <string name="user_email">Email(登录不需要填写)</string>
+    <string name="user_register">注册</string>
+    <string name="user_login">登录</string>
+</resources>
